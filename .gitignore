@@ -1,0 +1,10 @@
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+*.properties
+.DS_Store
+*/target
+_book
+node_modules
